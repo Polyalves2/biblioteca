@@ -1,13 +1,13 @@
 # Biblioteca
 *📚 Sistema de gerenciamento de biblioteca desenvolvido em TypeScript, simulando todas as operações de uma biblioteca real com empréstimos de livros,devoluções, bibliotecários e usuários*
 
-*🛠️ Tecnologias Utilizadas
-TypeScript/JavaScript: Linguagem de programação
+#🛠️ Tecnologias Utilizadas#
+#TypeScript/JavaScript: Linguagem de programação#
 
-Node.js: Ambiente de execução
+#Node.js: Ambiente de execução#
 
-POO: Programação Orientada a Objetos
+#POO: Programação Orientada a Objetos#
 
-Async/Await: Operações assíncronas
+#Async/Await: Operações assíncronas#
 
-Map: Estruturas de dados eficientes*
+#Map: Estruturas de dados eficientes#
